@@ -1,0 +1,23 @@
+{
+  "name": "rmon",
+  "version": "1.0.0",
+  "description": "resource monitor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zix44/rmon"
+  },
+  "keywords": [
+    "resource",
+    "monitor"
+  ],
+  "author": "abroamge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zix44/rmon/issues"
+  },
+  "homepage": "https://github.com/Zix44/rmon#readme"
+}
